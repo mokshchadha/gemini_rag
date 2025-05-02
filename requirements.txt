@@ -6,3 +6,6 @@ langchain-community
 langchain-google-genai
 google-generativeai
 faiss-cpu
+pdf2image
+Pillow
+langchain-google-genai

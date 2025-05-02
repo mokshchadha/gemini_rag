@@ -180,3 +180,7 @@ faiss_index
 
 chunk_sources.pkl
 file_names.pkl
+
+images_data.pkl
+extracted_images
+multimodal_faiss_index
