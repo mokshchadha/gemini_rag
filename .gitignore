@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+venv
+
+faiss_index
+
+chunk_sources.pkl
+file_names.pkl
